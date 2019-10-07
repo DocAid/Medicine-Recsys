@@ -1,0 +1,32 @@
+{
+    "Allergy": [
+        0,
+        {
+            "Hydroxyzine": [
+                1,
+                0,
+                1,
+                600
+            ],
+            "Levocetirizine": [
+                2,
+                0,
+                1,
+                400
+            ],
+            "Xyzal": [
+                3,
+                0,
+                1,
+                500
+            ],
+            "Vistaril": [
+                4,
+                0,
+                1,
+                650
+            ],
+            "Doxylamine": []
+        }
+    ]
+}
