@@ -1,0 +1,1201 @@
+skin_rash,continuous_sneezing,acidity,fatigue,nausea,loss_of_appetite,chest_pain,fast_heart_rate,bladder_discomfort,muscle_pain,prognosis
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,0,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,0,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,0,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,0,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,0,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,0,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,0,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,0,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,0,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,0,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,0,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,0,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,0,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,0,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,0,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,0,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,0,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,0,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,0,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,0,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,0,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,0,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,0,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,0,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,0,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+0,0,0,0,0,0,0,0,0,1,Malaria
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,0,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+1,0,0,0,1,1,0,0,0,1,Dengue
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,0,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,0,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
+1,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,0,0,0,Allergy
+0,0,1,0,0,0,0,0,0,0,Migraine
+0,0,0,0,1,0,0,0,0,1,Malaria
+1,0,0,1,1,1,0,0,0,1,Dengue
+0,0,0,1,1,0,0,0,0,0,Typhoid
+0,0,0,1,0,1,1,0,0,0,Tuberculosis
+0,1,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Urinary tract infection
